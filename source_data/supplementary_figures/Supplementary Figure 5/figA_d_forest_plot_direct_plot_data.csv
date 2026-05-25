@@ -1,0 +1,7 @@
+﻿case,parameter,axis,marker,x_value,x_unit,x_CI95_lo,x_CI95_hi,x_error_low,x_error_high,SD_approx_from_CI95,y_case_index,y_plot_position,color,R2,n_bootstrap,percentile,source_table
+S1,growth_rate_r,bottom_x_axis,square,2.22309,h^-1,0.80593,4.07996,1.41716,1.85687,0.83521,0,0.18000,#d62728,0.99149,2000,90,tableA_logistic_bootstrap_params.csv
+S1,inflection_time_t0,top_x_axis,diamond,7.51337,h,7.01866,22.85945,0.49471,15.34608,4.04102,0,-0.18000,#d62728,0.99149,2000,90,tableA_logistic_bootstrap_params.csv
+S2,growth_rate_r,bottom_x_axis,square,1.42218,h^-1,0.80675,1.42274,0.61543,0.00056,0.15714,1,1.18000,#1f77b4,1.00000,2000,90,tableA_logistic_bootstrap_params.csv
+S2,inflection_time_t0,top_x_axis,diamond,8.75375,h,8.70618,18.92207,0.04757,10.16832,2.60609,1,0.82000,#1f77b4,1.00000,2000,90,tableA_logistic_bootstrap_params.csv
+S4,growth_rate_r,bottom_x_axis,square,1.04449,h^-1,0.85977,1.52441,0.18472,0.47992,0.16955,2,2.18000,#2ca02c,0.99890,2000,90,tableA_logistic_bootstrap_params.csv
+S4,inflection_time_t0,top_x_axis,diamond,10.37095,h,9.28529,20.59896,1.08566,10.22801,2.88614,2,1.82000,#2ca02c,0.99890,2000,90,tableA_logistic_bootstrap_params.csv

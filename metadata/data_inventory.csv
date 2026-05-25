@@ -1,0 +1,7 @@
+category,folder_or_location,public_release_status,description,notes
+Main figure source data,source_data/main_figures,Included,Source tables and plotting metadata for main-text figures,
+Supplementary figure metadata,source_data/supplementary_figures,Included,Source tables and direct plotting metadata for supplementary figures,Some image-digitized tables are approximate and should be labelled as such if used as archival source data.
+DAS preprocessing and CAT-RMS code,code/cat_rms_and_das_processing,Included,Eight renamed publication-facing Python scripts for DAS preprocessing and CAT-RMS/RMS-related calculations,Duplicate non-PCA denoising script was removed; DASH5_PCA.py was retained as the main preprocessing workflow.
+Voxel damage analysis code,code/voxel_damage_analysis,Included,Four renamed publication-facing Python scripts for voxel reconstruction damage-core/connectivity/model-fitting/sensitivity analyses,Duplicate and partial legacy scripts were removed from the final upload package.
+Complete raw DAS recordings,Not included; request from corresponding author,Restricted by request,Large-volume raw DAS recordings used to derive processed metrics,Contact [corresponding_author_email] with requested cases/time windows/channels and intended use.
+Hydrological/displacement/image-derived processed data,source_data/main_figures and source_data/supplementary_figures,Included where used for figures,Processed data used directly in plotted figures,If additional raw camera/displacement files exist, archive separately or provide request procedure.

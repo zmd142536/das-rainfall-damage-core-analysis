@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Source data and analysis code for [paper title]"
+message: "If you use this source data or code, please cite the associated paper and this archived record."
+type: software
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+repository-code: "[GitHub URL]"
+doi: "[Zenodo DOI]"
+date-released: "2026-05-24"
+license: "[choose MIT/BSD-3-Clause for code; CC-BY-4.0 for data archive]"
+keywords:
+  - distributed acoustic sensing
+  - DAS
+  - rainfall-induced failure
+  - CAT-RMS
+  - voxel damage analysis
+  - damage core

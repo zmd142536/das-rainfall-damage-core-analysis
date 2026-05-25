@@ -1,0 +1,10 @@
+case,lead_type,lead_time_h
+S1,DAS_to_visible_failure,5.07
+S1,DAS_to_displacement_acceleration,4.03
+S1,displacement_acceleration_to_visible_failure,1.04
+S2,DAS_to_visible_failure,5.40
+S2,DAS_to_displacement_acceleration,3.60
+S2,displacement_acceleration_to_visible_failure,1.80
+S4,DAS_to_visible_failure,4.50
+S4,DAS_to_displacement_acceleration,3.23
+S4,displacement_acceleration_to_visible_failure,1.27

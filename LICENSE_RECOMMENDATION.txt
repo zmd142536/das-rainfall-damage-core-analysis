@@ -1,0 +1,13 @@
+Recommended licensing choices before public release:
+
+1. Code:
+   Use MIT or BSD-3-Clause if you want broad reuse with attribution and limited warranty.
+
+2. Figure source data and plotting metadata:
+   Use CC-BY-4.0 if the journal expects reusable data with attribution.
+
+3. Raw DAS data:
+   Do not include large raw DAS recordings in the public GitHub repository unless you have already confirmed data-sharing permissions, storage limits, and site-sensitivity constraints. Describe a request procedure instead.
+
+Important:
+This file is not a license. Before release, add an actual LICENSE file after the corresponding author/team confirms the licensing choice.

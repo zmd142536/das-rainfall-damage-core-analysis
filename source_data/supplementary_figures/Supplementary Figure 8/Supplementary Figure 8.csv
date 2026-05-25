@@ -1,0 +1,7 @@
+case,parameter,axis,marker,x_value,x_unit,x_CI95_lo,x_CI95_hi,x_error_low,x_error_high_approx,SD_from_CI95,y_case_index,y_plot_position,R2_label
+S1,growth_rate_r,bottom_x_axis,square,2.2231,h^-1,1.65,2.95,0.5731,0.7269,0.3316,0,0.18,0.991
+S1,inflection_time_t0,top_x_axis,diamond,7.5,h,7,12.1,0.5,4.6,1.301,0,-0.18,0.991
+S2,growth_rate_r,bottom_x_axis,square,1.4222,h^-1,0.8,1.43,0.6222,0.0078,0.1607,1,1.18,1
+S2,inflection_time_t0,top_x_axis,diamond,8.8,h,8.7,13.1,0.1,4.3,1.1224,1,0.82,1
+S4,growth_rate_r,bottom_x_axis,square,1.0445,h^-1,0.85,1.52,0.1945,0.4755,0.1709,2,2.18,0.999
+S4,inflection_time_t0,top_x_axis,diamond,10.4,h,9.3,14.5,1.1,4.1,1.3265,2,1.82,0.999
