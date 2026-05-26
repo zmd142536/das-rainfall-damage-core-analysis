@@ -1,19 +1,10 @@
 cff-version: 1.2.0
-title: "Source data and analysis code for [paper title]"
-message: "If you use this source data or code, please cite the associated paper and this archived record."
-type: software
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "Source data and analysis code for DAS rainfall-induced damage-core analysis"
 authors:
   - family-names: "Zhao"
     given-names: "Mingdong"
 repository-code: "https://github.com/zmd142536/das-rainfall-damage-core-analysis"
-abstract: "Source data, plotting metadata, and analysis code supporting the manuscript Distributed acoustic sensing reveals precursory internal damage organization before rainfall-induced loess slope failure."
-version: "1.0.1"
-date-released: "2026-05-25"
+version: "1.0.2"
+date-released: "2026-05-26"
 license: "CC-BY-4.0"
-keywords:
-  - distributed acoustic sensing
-  - DAS
-  - rainfall-induced failure
-  - CAT-RMS
-  - voxel damage analysis
-  - damage core
