@@ -3,12 +3,13 @@ title: "Source data and analysis code for [paper title]"
 message: "If you use this source data or code, please cite the associated paper and this archived record."
 type: software
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given name]"
-repository-code: "[GitHub URL]"
-doi: "[Zenodo DOI]"
-date-released: "2026-05-24"
-license: "[choose MIT/BSD-3-Clause for code; CC-BY-4.0 for data archive]"
+  - family-names: "Zhao"
+    given-names: "Mingdong"
+repository-code: "https://github.com/zmd142536/das-rainfall-damage-core-analysis"
+abstract: "Source data, plotting metadata, and analysis code supporting the manuscript Distributed acoustic sensing reveals precursory internal damage organization before rainfall-induced loess slope failure."
+version: "1.0.1"
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
 keywords:
   - distributed acoustic sensing
   - DAS
